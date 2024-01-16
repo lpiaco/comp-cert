@@ -1,2 +1,2 @@
-# comp-cert
+# CompCert
 Computer Teacher Certification
